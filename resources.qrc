@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>browser.png</file>
+        <file>browser1.png</file>
+        <file>chat.png</file>
+        <file>chat1.png</file>
+        <file>index.png</file>
+        <file>index1.png</file>
+        <file>media.png</file>
+        <file>media1.png</file>
+        <file>navi.png</file>
+        <file>navi1.png</file>
+        <file>setting.png</file>
+        <file>setting1.png</file>
+        <file>back.png</file>
+    </qresource>
+    <qresource prefix="/profile">
+        <file>profile1.png</file>
+        <file>profile2.png</file>
+        <file>profile3.png</file>
+        <file>myprofile.png</file>
+    </qresource>
+</RCC>
